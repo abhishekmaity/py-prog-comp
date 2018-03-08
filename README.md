@@ -1,3 +1,3 @@
 # py-Prog-Comp
 
-Examples and Finger excercises from *Introduction to Computation and Programming using Python*
+Examples and finger **solved** excercises from *Introduction to Computation and Programming using Python*
